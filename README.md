@@ -21,9 +21,9 @@
 
 
 
-#第 1 章  Spring Boot 入门
+# 第 1 章  Spring Boot 入门
 
-##1.1 简介
+## 1.1 简介
 
 ​		Spring Boot来简化Spring应用开发，约定大于配置，去繁从简，just run就能创建一个独立的，产品级别的应用。
 
@@ -53,7 +53,7 @@
 
 
 
-##1.2 HelloWorld 
+## 1.2 HelloWorld 
 
 - **maven 的 settings.xml 配置文件的 profiles 标签添加**
 
@@ -76,13 +76,13 @@
 
 
 
-###1.2.1 创建 maven 项目
+### 1.2.1 创建 maven 项目
 
 ![image-20200523133323896](\images\image-20200523133323896.png)
 
 
 
-###1.2.2 引入 starters
+### 1.2.2 引入 starters
 
 ```xml
     <parent>
@@ -100,7 +100,7 @@
 
 
 
-###1.2.3 创建主程序
+### 1.2.3 创建主程序
 
 ```java
 package com.dreams;
@@ -120,7 +120,7 @@ public class HelloWorldMain
 
 
 
-###1.2.4 编写业务类
+### 1.2.4 编写业务类
 
 ```java
 package com.dreams.controller;
