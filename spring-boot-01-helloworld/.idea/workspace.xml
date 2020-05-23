@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e3a960-7550-478d-9d97-d22198e6967f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Tools\maven_repository" />
+        <option name="mavenHome" value="D:/Tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1cIMxW9afIAqik2DWopLZRKbZ8l" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorldMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-01-helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dreams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dreams.HelloWorldMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HelloWorldMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.18306011" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1e3a960-7550-478d-9d97-d22198e6967f" name="Default Changelist" comment="" />
+      <created>1590211900223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590211900223</updated>
+      <workItem from="1590211904325" duration="35000" />
+      <workItem from="1590212072682" duration="3081000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1590229730649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590229730649" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1590229730649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590229730649" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1590229730649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590229730649" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1590229730649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590229730649" />
+    <state width="1195" height="144" key="GridCell.Tab.1.bottom" timestamp="1590229730644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1195" height="144" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590229730644" />
+    <state width="1195" height="144" key="GridCell.Tab.1.center" timestamp="1590229730644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1195" height="144" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590229730644" />
+    <state width="1195" height="144" key="GridCell.Tab.1.left" timestamp="1590229730644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1195" height="144" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590229730644" />
+    <state width="1195" height="144" key="GridCell.Tab.1.right" timestamp="1590229730644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1195" height="144" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590229730644" />
+    <state width="1195" height="144" key="GridCell.Tab.2.bottom" timestamp="1590229730644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1195" height="144" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590229730644" />
+    <state width="1195" height="144" key="GridCell.Tab.2.center" timestamp="1590229730644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1195" height="144" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1590229730644" />
+    <state width="1195" height="144" key="GridCell.Tab.2.left" timestamp="1590229730644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1195" height="144" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1590229730644" />
+    <state width="1195" height="144" key="GridCell.Tab.2.right" timestamp="1590229730644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1195" height="144" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1590229730644" />
+    <state x="345" y="107" width="1013" height="618" key="new project wizard" timestamp="1590211937594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="107" width="1013" height="618" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590211937594" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class</url>
+          <line>56</line>
+          <properties class="org.springframework.boot.autoconfigure.AutoConfigurationImportSelector" method="selectImports">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class</url>
+          <line>57</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
